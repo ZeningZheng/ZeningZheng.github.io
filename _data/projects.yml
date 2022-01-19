@@ -1,31 +1,28 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/naye0ng/Grape-Theme # Full URL
-    image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
-    summary : A awesome jekyll theme!
-    description : This project is my first jekyll theme. and everyone can customize this easily.  
+    url : https://github.com/ZeningZheng/Stock-Price-Forecasting # Full URL
+    image : "poster_stock.png" # path: assets/project/
+    date : 2021.12
+    title : Stock Price Forecasting
+    summary : Using CNN-BiLSTM-ECA model to predict stock prices.
+    description : This is a project I worked on with two other students during my masters in Deep learning course.  
     contents :
-        - title : 1. 블로그 첫 화면 구성
-          image : home.png
-          description : <li>Responsive Layout</li>
-            <li>User Profile</li> 
-            <li>Tags</li> 
-            <li>Projects</li> 
-            <li>Pagination</li>
-        - title : 2. 태그 페이지
-          image : tags.png
-          description : <li>Responsive Layout</li> 
-            <li>Tags</li> 
-        - title : 3. 남은 개발 과제
+        - title : Aim of this project
+          image : 
+          description : 
+            <li>Predict stock prices.</li>
+        - title : Model
+          image : 
+          description :  
+            <li>CNN-BiLSTM-ECA model.</li>
+            <li>CNN is convolutional neural network which can extracts features, then it passes features to Bidirectional LSTM, which performs two LSTM function, backward and forward, which can use the information from both the past and future. Then comes ECA, Effective channel attention model, this model can further reduce model complexity and focus on the most useful information. And finally, dense layer to perform prediction.</li> 
+        - title : Process
           image :
-          description : <li>project 부분 디자인 변경</li>
-            <li>favicon.ico, search 기능</li>
-            <li>OG Tag 추가</li>
-            <li>profile 이미지 효과</li>
-            <li>gem 배포</li> 
+          description : 
+          <li>Replication of other’s work.</li>
+          <li>Application and improvement of the existing model to other stocks. (PetrolChina, Dogecoin, Bitcoin, Bitcoin cash)</li>
+          
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
