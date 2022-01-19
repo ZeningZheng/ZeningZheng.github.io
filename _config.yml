@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/zena.png
+    image : assets/img/zena.jpg
     username : Zening (Zena) Zheng
     description : Master of Psychology in Behavioral Data Science, UvA
     experience :
