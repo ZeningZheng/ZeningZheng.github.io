@@ -15,12 +15,12 @@
         - title : Model
           image : 
           description :  
-            <li>CNN-BiLSTM-ECA model.</li>
-            <li>CNN is convolutional neural network which can extracts features, then it passes features to Bidirectional LSTM, which performs two LSTM function, backward and forward, which can use the information from both the past and future. Then comes ECA, Effective channel attention model, this model can further reduce model complexity and focus on the most useful information. And finally, dense layer to perform prediction.</li> 
+            CNN-BiLSTM-ECA model.<br>
+            CNN is convolutional neural network which can extracts features, then it passes features to Bidirectional LSTM, which performs two LSTM function, backward and forward, which can use the information from both the past and future. Then comes ECA, Effective channel attention model, this model can further reduce model complexity and focus on the most useful information. And finally, dense layer to perform prediction.
         - title : Process
           image :
           description : 
-          <li>Replication of other’s work.</li>
+          <li>Replication of other&rsquo;s work.</li>
           <li>Application and improvement of the existing model to other stocks. (PetrolChina, Dogecoin, Bitcoin, Bitcoin cash)</li>
           
 
