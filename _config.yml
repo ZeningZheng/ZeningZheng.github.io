@@ -18,6 +18,8 @@ theme_settings :
         experience : company name, title
     skills : 
       - skill : Python, R, SPSS
+      - skill : R, SPSS
+      - skill : SPSS,
         value : 85  # Percent value
         
   # Icons
