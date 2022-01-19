@@ -1,37 +1,34 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://zeningzheng.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Zening Zheng
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/zena.png
+    username : Zening (Zena) Zheng
+    description : Master of Psychology in Behavioral Data Science, UvA
     experience :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
     skills : 
-      - skill : HTML5 & CSS
+      - skill : Python, R, SPSS
         value : 85  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    email:  zena.zheng@student.uva.nl 
+    linkedin:  https://www.linkedin.com/in/zena-zheng-081308220/
+    github: https://github.com/ZeningZheng
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
-    youtube:
-    facebook:
-    instagram:
+
 
   # Disqus
   disqus_shortname :
