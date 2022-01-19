@@ -11,8 +11,7 @@ theme_settings :
   profile :
     image : assets/img/zena.jpg
     username : Zening (Zena) Zheng
-    description : Master of Psychology in Behavioral Data Science, UvA
-    Seeking for 2022 Intern
+    description : Master of Psychology in Behavioral Data Science, UvA<br>Seeking for 2022 Intern
     education :
       - start : 2015-09
         end : 2019-06
