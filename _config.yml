@@ -13,14 +13,21 @@ theme_settings :
     username : Zening (Zena) Zheng
     description : Master of Psychology in Behavioral Data Science, UvA
     Seeking for 2022 Intern
-    experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+    education :
+      - start : 2015-09
+        end : 2019-06
+        experience : Bachelor in Quantitative Psychology, Jiangxi Normal University, Honours Degree
+
+      - start : 2021-09
+        end : Precent
+        experience : Master of Psychology in Behavioral Data Science, Universirty of Amsterdam
+        anticipated course : Behavioral Data Science Toolbox (Data Visualization/SQL/Consultancy), Big Data Analytics, Deep Learning in Python, Internship Data-Driven Consultancy, Psychometrics
     skills : 
-      - skill : Python, R, SPSS,
+      - skill : Python, R, SPSS, Mplus
     Language : 
       - skill : English, Chinese Mandarin (native), Chinese Wenzhounese 
+    Interest : 
+      - skill : Meditation, Cooking, Programming
       
         
   # Icons
