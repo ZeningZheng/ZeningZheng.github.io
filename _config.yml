@@ -12,15 +12,16 @@ theme_settings :
     image : assets/img/zena.jpg
     username : Zening (Zena) Zheng
     description : Master of Psychology in Behavioral Data Science, UvA
+    Seeking for 2022 Intern
     experience :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
     skills : 
-      - skill : Python, R, SPSS
-      - skill : R, SPSS
-      - skill : SPSS,
-        value : 85  # Percent value
+      - skill : Python, R, SPSS,
+    Language : 
+      - skill : English, Chinese Mandarin (native), Chinese Wenzhounese 
+      
         
   # Icons
   icons :
@@ -36,7 +37,7 @@ theme_settings :
   disqus_shortname :
 
 # Pagination
-paginate: 5
+paginate: 8
 paginate_path: "blog/page:num"
 
 # Build Ssttings
